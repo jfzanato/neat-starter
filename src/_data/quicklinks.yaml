@@ -11,6 +11,6 @@ links:
   - title: Tailwind CSS
     url: https://tailwindcss.com/
     desc: A utility-first CSS framework for rapidly building custom designs.
-  - title: Blog
-    url: blog
-    desc: tste
+  - title: IDE online
+    url: posts/ide-online
+    desc: Lista de IDE online para edição de código frontend e backend.
